@@ -1,7 +1,7 @@
 # ポートフォリオ
 
 ## 1. フリマアプリ
-ユーザー同士で商品の出品・購入ができるフリマアプリです
+ユーザー同士で商品の出品・購入ができるアプリです
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-fleamarketapp.git
 
@@ -22,6 +22,7 @@
 ---
 
 ## 2. 勤怠管理アプリ
+ユーザーの勤怠打刻と管理ができるアプリです
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-attendanceapp.git
 
