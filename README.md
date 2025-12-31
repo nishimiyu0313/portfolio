@@ -1,8 +1,8 @@
 # ポートフォリオ
 
 ## 1. フリマアプリ
-
 ユーザー同士で商品の出品・購入ができるフリマアプリです
+
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-fleamarketapp.git
 **使用技術:** PHP, Laravel, Blade, JS, MySQL, mailhog
 
