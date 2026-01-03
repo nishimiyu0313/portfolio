@@ -45,12 +45,13 @@
 ---
 
 ## 3. Todoアプリ（学習中）
-フロントは Nuxt + JavaScript、バックエンドは Laravel を使用した Todo アプリです。  
-現在、フルスタック開発の理解を深めるために学習・改良を進めています。
+Nuxt4（Vue 3）を使ったフロントエンド SPA と、Laravel を使ったバックエンド API、MySQL データベース を組み合わせた Todo 管理アプリです。  
+フルスタック開発の理解を深めるために作成しました。
+SPA と API を連携させたユーザーがブラウザ上で Todo の追加・編集・削除を行えるアプリケーションの構築を学ぶことを目的としています。
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-todoapp.git
 
-**使用技術:** Nuxt, JavaScript, Laravel, PHP, MySQL
+**使用技術:** Nuxt 4 (Vue 3), JavaScript, Laravel (PHP), MySQL, Axios
 
 ### 主な機能（学習中）
 - タスクの追加・削除・完了状態管理
