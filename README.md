@@ -1,7 +1,7 @@
 # ポートフォリオ
 
 ## 1. フリマアプリ
-ユーザー同士で商品の出品・購入ができるアプリです
+ユーザー同士で商品の出品・購入ができるアプリです。
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-fleamarketapp.git
 
@@ -23,7 +23,7 @@
 ---
 
 ## 2. 勤怠管理アプリ
-ユーザーの勤怠打刻と管理ができるアプリです
+ユーザーの勤怠打刻と管理ができるアプリです。
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-attendanceapp.git
 
@@ -46,9 +46,9 @@
 ---
 
 ## 3. Todoアプリ（学習中）
-Nuxt4（Vue 3）を使ったフロントエンド SPA と、Laravel を使ったバックエンド API、MySQL データベース を組み合わせた Todo 管理アプリです
-フルスタック開発の理解を深めるために作成しました
-SPA と API を連携させたユーザーがブラウザ上で Todo の追加・編集・削除を行えるアプリケーションの構築を学ぶことを目的としています
+Nuxt4（Vue 3）を使ったフロントエンド SPA と、Laravel を使ったバックエンド API、MySQL データベース を組み合わせた Todo 管理アプリです。
+フルスタック開発の理解を深めるために作成しました。
+SPA と API を連携させたユーザーがブラウザ上で Todo の追加・編集・削除を行えるアプリケーションの構築を学ぶことを目的としています。
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-todoapp.git
 
