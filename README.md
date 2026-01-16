@@ -27,7 +27,7 @@
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-attendanceapp.git
 
-**使用技術:** PHP, Laravel, Blade, JavaScript, MySQL, mailhog
+**使用技術:** PHP, Laravel, JavaScript, MySQL, mailhog
 
 ### 主な機能
 
