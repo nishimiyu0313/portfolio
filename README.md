@@ -5,7 +5,7 @@
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-fleamarketapp.git
 
-**使用技術:** PHP, Laravel, Blade, JS, MySQL, mailhog
+**使用技術:** PHP, Laravel, JavaScript, MySQL, mailhog
 
 ### 主な機能
 
@@ -27,7 +27,7 @@
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-attendanceapp.git
 
-**使用技術:** PHP, Laravel, Blade, JS, MySQL, mailhog
+**使用技術:** PHP, Laravel, Blade, JavaScript, MySQL, mailhog
 
 ### 主な機能
 
@@ -52,7 +52,7 @@ SPA と API を連携させたユーザーがブラウザ上で Todo の追加�
 
 **GitHub URL:** https://github.com/nishimiyu0313/yamada-todoapp.git
 
-**使用技術:** Nuxt 4 (Vue 3), JavaScript, Laravel (PHP), MySQL, Axios
+**使用技術:** PHP, Laravel, MySQL, JavaScript, Nuxt, Vue,  Axios
 
 ### 主な機能（学習中）
 - タスクの追加・削除・完了状態管理
